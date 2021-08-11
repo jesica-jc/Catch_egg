@@ -1,0 +1,10 @@
+C:\Users\Jesica\source\repos\Gaming\bin\Debug\Gaming.exe.config
+C:\Users\Jesica\source\repos\Gaming\bin\Debug\Gaming.exe
+C:\Users\Jesica\source\repos\Gaming\bin\Debug\Gaming.pdb
+C:\Users\Jesica\source\repos\Gaming\obj\Debug\Gaming.csproj.AssemblyReference.cache
+C:\Users\Jesica\source\repos\Gaming\obj\Debug\Gaming.Form1.resources
+C:\Users\Jesica\source\repos\Gaming\obj\Debug\Gaming.Properties.Resources.resources
+C:\Users\Jesica\source\repos\Gaming\obj\Debug\Gaming.csproj.GenerateResource.cache
+C:\Users\Jesica\source\repos\Gaming\obj\Debug\Gaming.csproj.CoreCompileInputs.cache
+C:\Users\Jesica\source\repos\Gaming\obj\Debug\Gaming.exe
+C:\Users\Jesica\source\repos\Gaming\obj\Debug\Gaming.pdb
